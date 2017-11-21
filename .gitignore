@@ -1,0 +1,8 @@
+SFML-PuzzleGame.layout
+SFML-PuzzleGame.depend
+SFML-PuzzleGame.cbp
+cb.bmp
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+obj/*
+bin/*
